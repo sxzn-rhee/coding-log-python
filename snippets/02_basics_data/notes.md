@@ -65,7 +65,7 @@ dt.datetime.now()
 
 --- 
 
-## 2. print() (화면에 풀력하기)
+## 2. print() (화면에 출력하기)
 ```bash 
 print("hello")
 ``` 
