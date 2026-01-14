@@ -1,4 +1,4 @@
-# 2026-01-133 - python 기초 정리 (01_import/as/ from + 02_basics_data)
+# 2026-01-13 - python 기초 정리 (01_import/as/ from + 02_basics_data)
 
 ## 0) 오늘 목표
 - 파이썬 파일(.py)을 직접 실행해보기
